@@ -1,0 +1,3 @@
+[submodule "libnn"]
+	path = libnn
+	url = http://github.com/nthend/libnn
